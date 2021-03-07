@@ -5,6 +5,10 @@ Add this to your /etc/hosts
 
 ```151.101.192.70 rubygems.org```
 
+
+now go to ```/usr/share/metasploit-framework```
+
+
 then install following stuffs
 
 ```sudo gem install bundler -v 2.2.5```
